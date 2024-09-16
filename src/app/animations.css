@@ -1,0 +1,8 @@
+@keyframes move_sign {
+  from {
+    background-color: blue;
+  }
+  to {
+    background-color: blueviolet;
+  }
+}
